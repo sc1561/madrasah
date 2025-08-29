@@ -1,0 +1,8 @@
+[
+  { "id": 1, "kind": "فعاليات", "caption": "حفل المدرسة", "src": null },
+  { "id": 2, "kind": "فصول", "caption": "مختبر العلوم", "src": null },
+  { "id": 3, "kind": "رياضة", "caption": "مباراة كرة قدم", "src": null },
+  { "id": 4, "kind": "فعاليات", "caption": "مسرحية", "src": null },
+  { "id": 5, "kind": "فصول", "caption": "فن وتصميم", "src": null },
+  { "id": 6, "kind": "رياضة", "caption": "كرة سلة", "src": null }
+]
