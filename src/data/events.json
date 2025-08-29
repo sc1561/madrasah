@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "حفل تخرج الدفعة 2025",
+    "date": "10 يونيو 2025",
+    "category": "حفلات",
+    "excerpt": "لحظات لا تُنسى مع أوائل الطلبة وتكريم المتميزين.",
+    "cover": null,
+    "gallery": ["/media/grad-1.jpg", "/media/grad-2.jpg"],
+    "video": "https://www.youtube.com/embed/ysz5S6PUM-U"
+  },
+  {
+    "id": 2,
+    "title": "بطولة كرة القدم المدرسية",
+    "date": "22 أبريل 2025",
+    "category": "رياضة",
+    "excerpt": "منافسات ممتعة وروح رياضية عالية بين الفصول.",
+    "cover": null,
+    "gallery": ["/media/football-1.jpg"],
+    "video": null
+  },
+  {
+    "id": 3,
+    "title": "مسابقة الروبوتات",
+    "date": "5 مارس 2025",
+    "category": "مسابقات",
+    "excerpt": "ابتكارات مذهلة من طلابنا باستخدام الروبوتات والذكاء الاصطناعي.",
+    "cover": null,
+    "gallery": ["/media/robot-1.jpg", "/media/robot-2.jpg", "/media/robot-3.jpg"],
+    "video": "https://www.youtube.com/embed/Q7AOvWpIVHU"
+  },
+  {
+    "id": 4,
+    "title": "يوم الأنشطة الطلابية",
+    "date": "12 فبراير 2025",
+    "category": "أنشطة طلابية",
+    "excerpt": "ورش فنية، علوم ممتعة، ومسرح تفاعلي.",
+    "cover": null,
+    "gallery": ["/media/club-1.jpg"],
+    "video": null
+  }
+]
